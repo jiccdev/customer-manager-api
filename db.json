@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "name": "Axel Isaac Rodriguez Castro upd",
+      "company": "Hunter Douglas ",
+      "email": "axel.199@gmail.com",
+      "telephone": "92827666",
+      "notes": "THi is a Note",
+      "id": 3
+    },
+    {
+      "name": "Jacquelinne Andre Castro Martinez",
+      "company": "AlimFeed",
+      "email": "jac@gmail.com",
+      "telephone": "23131323",
+      "notes": "NOtea",
+      "id": 4
+    },
+    {
+      "name": "José Ignacio Contreras Castro",
+      "company": "DuocUC",
+      "email": "workspace59ti@gmail.com",
+      "telephone": "944562697",
+      "notes": "",
+      "id": 5
+    }
+  ]
+}
